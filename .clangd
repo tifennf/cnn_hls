@@ -1,0 +1,4 @@
+If:
+  PathMatch: doc/.*
+Diagnostics:
+  Suppress: '*'
